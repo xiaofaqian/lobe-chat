@@ -269,7 +269,7 @@ const SiliconCloud: ModelProviderCard = {
       tokens: 32_768,
     },
     {
-      description: 'Llama 3.1 Nemotron 70B 是由 NVIDIA 定制的大型语言模型，旨在提高 LLM 生成的响应对用户查询的帮助程度。',
+      description: 'Llama 3.1 Nemotron 70B 是由 NVIDIA 定制的大型语言模型，旨在提高 LLM 生成的响应对用户查询的帮助程度。建议去NVIDIA官方申请KEY',
       displayName: 'Llama 3.1 Nemotron 70B',
       enabled: true,
       id: 'nvidia/Llama-3.1-Nemotron-70B-Instruct',
